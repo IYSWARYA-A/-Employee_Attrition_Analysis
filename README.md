@@ -16,13 +16,13 @@ The main objective of this project is to analyze employee attrition and understa
 - Clean and preprocess raw employee data
 - Perform exploratory data analysis (EDA)
 - Analyze attrition based on:
-Department
-Job Role
-Salary
-Experience
-Overtime
-Job Satisfaction
-Build an interactive dashboard for HR insights
+- Department
+- Job Role
+- Salary
+- Experience
+- Overtime
+-Job Satisfaction
+- Build an interactive dashboard for HR insights
 
 ## Features
 - Data cleaning and transformation using Python
