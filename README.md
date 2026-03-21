@@ -5,10 +5,7 @@
 ## Project Title : Employee_Attrition_Analysis
 
 ### Objectives
-- Analyze employee attrition trends in the organization
-- Identify key factors affecting employee turnover
-- Understand workforce distribution across departments and roles
-- Support HR decision-making using data-driven insights
+The main objective of this project is to analyze employee attrition and understand the key factors influencing employees to leave the organization. The project aims to explore workforce patterns by examining attributes such as department, job role, salary, experience, overtime, and job satisfaction. It also focuses on identifying trends related to promotion eligibility and employee retention. By using Python for data cleaning, SQL for data analysis, and Power BI for visualization, the project provides meaningful insights that can support HR teams in making informed decisions to improve employee engagement and reduce attrition.
 
 ### Tools & Technologies Used
 - Python – Data cleaning and preprocessing (Pandas, NumPy)
